@@ -15,7 +15,7 @@ time.
 
 [LinkedIn][2]|[Github][3]|[Gitlab][4]|[Twitter][5]
 
-[1]:
+[1]:Headshot.jpg
 [2]:https://www.linkedin.com/in/davisty
 [3]:https://github.com/tydavis/
 [4]:https://gitlab.com/tydavis
