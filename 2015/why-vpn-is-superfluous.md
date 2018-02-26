@@ -33,7 +33,7 @@ always the same, work successfully over the public internet, and can be
 verified, every time. No one has to remember to turn on an External Interface in
 order to access a service, they simply connect and are authenticated through.
 When paired with multifactor authentication like and using hardware tokens like
-the thoroughly-vetted-and-reviewed [Yubikeyw][2], systems are often more secure
+the thoroughly-vetted-and-reviewed [Yubikey][2], systems are often more secure
 than when accessed using an authenticated VPN connection.
 
 ## VPN provides a false sense of security
