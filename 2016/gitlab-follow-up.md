@@ -73,4 +73,5 @@ a lot of sense to use SemVer.
 
 [1]:http://odino.org/minimal-docker-run-your-nodejs-app-in-25mb-of-an-image/
 [2]:https://blog.risingstack.com/minimal-docker-containers-for-node-js/
-[3]:https://www.minio.io/ [4]:http://semver.org/
+[3]:https://www.minio.io/
+[4]:http://semver.org/

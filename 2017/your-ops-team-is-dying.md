@@ -5,7 +5,7 @@
 Operations teams which don't evolve are dying off, and that's a good
 thing.
 
-## Infrastructure is a matter of services, service providers, and your budget.
+## Infrastructure is a matter of services, service providers, and your budget
 
 Most companies don't buy actual hardware servers these days. Cloud
 Providers make it easy for services to leverage the provider's economies
@@ -16,7 +16,7 @@ teams will take advantage of managed services like on-event functions
 (Cloud Functions, AWS Lambda), or databases, meaning there will be less
 for your operations team to worry about.
 
-## Developers must be responsible for managing and deploying their code.
+## Developers must be responsible for managing and deploying their code
 
 Developers know their code, and how to scale it. Without a lot of
 documentation or runbooks, the Operations team knows little beyond "turn
@@ -61,7 +61,6 @@ don't need a ratio of 10:1 -- you have a team small enough to be fed by
 provider-optimized services, keep the architecture simple, and
 understand the weak points of the architecture just like your Operations
 team did...
-
 
 ### Post Script
 

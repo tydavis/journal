@@ -39,7 +39,9 @@ don't even need the language tools installed on your machine to build!
 Make your production (deployment) containers as small as you reasonably
 can. It makes *everything* easier.
 
-## Stop trying to "hack" docker to make it go faster. Fix your architecture / code instead
+## Stop trying to "hack" docker to make it go faster
+
+> Fix your architecture / code instead
 
 Docker is not a panacea. It enables some very useful and secure
 optimizations for developers and operations/infrastructure teams alike.

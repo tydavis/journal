@@ -6,6 +6,9 @@
 
 ## 2018
 
+- 2018-02-27 [Google is terrible][29] --- explanation for why I'm against
+  Google now, despite my earlier support
+
 ## 2017
 
 - 2017-11-02 [Docker Shenanigans][28] --- Misbehaving with docker
@@ -32,10 +35,9 @@
     experimentation with this website.
 - 2017-04-04 [Life in Chrome (Part 2)][14] --- A follow-up to my original [Life
     in Chrome][12] post.
-- 2017-03-30 [Why encrypting everything on the internet makes
-    sense](/view/gluecode/2017/why-encrypting-everything-on-the-internet-makes-sense)
-    --- A short opinion piece explaining the need for encryption when it comes
-    to the internet.
+- 2017-03-30 [Why encrypting everything on the internet makes sense][30] --- A
+  short opinion piece explaining the need for encryption when it comes to the
+  internet.
 - 2017-03-23 [Ongoing encryption efforts][13] --- What it says on the tin.
 - 2017-03-07 [Life in Chrome][12] --- What happens when you work entirely within
     in a browser?
@@ -95,3 +97,5 @@
 [26]:2017/learning-rust.md
 [27]:2017/docker-builder-pattern.md
 [28]:2017/docker-shenanigans.md
+[29]:2018/google-is-terrible.md
+[30]:2017/encrypt-everything.md

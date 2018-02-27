@@ -5,12 +5,11 @@
 It's really hard to watch the news unfold lately. I find the Charlottesville
 protests (is it too soon to call them hate groups/crimes?) absolutely abhorrent.
 I've talked about the [right to privacy on the
-internet](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fgluecode%2F2017%2Fwhy-encrypting-everything-on-the-internet-makes-sense&sa=D&sntz=1&usg=AFQjCNHvo0RPuHGLJ2WqvFx-4PB5-tk1PA),
-but in [cases like these][2], it's entirely different: your right to bigoted,
-racist beliefs ends when you pick up a sign, gather publicly, or otherwise
-impinge on the rights of others. In short, it's the **Act** that is censured,
-not the belief. And when it comes to [speaking publicly][3], that includes
-Twitter/Facebook.
+internet][1], but in [cases like these][2], it's entirely different: your right
+to bigoted, racist beliefs ends when you pick up a sign, gather publicly, or
+otherwise impinge on the rights of others. In short, it's the **Act** that is
+censured, not the belief. And when it comes to [speaking publicly][3], that
+includes Twitter/Facebook.
 
 We tend to dismiss the harsh [words of an outgroup][4] because "they are not
 us," and rely more on what we see with our own ingroups. If we don't *see*
@@ -82,7 +81,7 @@ supremacist rally?][12]
 
 For those who don't have a subscription, [here's a PDF][13].
 
-[1]: 
+[1]:encrypt-everything.md
 [2]:https://www.nytimes.com/2017/08/14/us/charlottesville-doxxing.html?_r=0
 [3]:https://www.washingtonpost.com/news/post-politics/wp/2017/08/15/after-charlottesville-trump-retweets-then-deletes-image-of-train-running-over-cnn-reporter/
 [4]:https://en.wikipedia.org/wiki/Ingroups_and_outgroups
