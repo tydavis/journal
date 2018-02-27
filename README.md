@@ -6,6 +6,9 @@
 
 ## 2018
 
+- 2018-02-27 [Google is terrible][29] --- explanation for why I'm against
+  Google now, despite my earlier support
+
 ## 2017
 
 - 2017-11-02 [Docker Shenanigans][28] --- Misbehaving with docker
@@ -95,3 +98,4 @@
 [26]:2017/learning-rust.md
 [27]:2017/docker-builder-pattern.md
 [28]:2017/docker-shenanigans.md
+[29]:2018/google-is-terrible.md
