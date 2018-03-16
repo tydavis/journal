@@ -101,4 +101,4 @@
 [28]:2017/docker-shenanigans.md
 [29]:2018/google-is-terrible.md
 [30]:2017/encrypt-everything.md
-[31]:
+[31]:2018/google-follow-up.md
