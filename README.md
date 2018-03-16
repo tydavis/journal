@@ -6,7 +6,9 @@
 
 ## 2018
 
-- 2018-02-27 [Google is terrible][29] --- explanation for why I'm against
+- 2018-03-16 [Follow up RE: Google][31] --- Further explanation on [my rage-quit
+  of Google.][29]
+- 2018-02-27 [Google is terrible][29] --- Explanation for why I'm against
   Google now, despite my earlier support
 
 ## 2017
@@ -99,3 +101,4 @@
 [28]:2017/docker-shenanigans.md
 [29]:2018/google-is-terrible.md
 [30]:2017/encrypt-everything.md
+[31]:
