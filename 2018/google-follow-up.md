@@ -43,6 +43,7 @@ political these days:
 >>
 >> -Quellcrist Falconer
 >> Things I Should Have Learned by Now, Volume II” 
+>
 > [- Richard K. Morgan][4]
 
 [1]:https://twitter.com/tydavis313/status/964328720210132992
