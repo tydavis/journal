@@ -2,6 +2,8 @@
 
 >Journal, Blog, Brain Dump, etc
 
+>Opinions expressed are solely my own and do not express the views or opinions of my employer.
+
 [About][1]
 
 ## 2018
