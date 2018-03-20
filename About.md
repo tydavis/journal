@@ -13,7 +13,9 @@ keep me from having to do exactly that. Also, it serves as a useful
 platform to document opinions and progression of said opinions over
 time.
 
-[LinkedIn][2]|[Github][3]|[Gitlab][4]|[Twitter][5]
+[LinkedIn][2] | [Github][3] | [Gitlab][4] | [Twitter][5]
+
+>Opinions expressed are solely my own and do not express the views or opinions of my employer.
 
 [1]:Headshot.jpg
 [2]:https://www.linkedin.com/in/davisty
