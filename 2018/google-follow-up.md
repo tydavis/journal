@@ -1,8 +1,10 @@
 # Google Follow-up
 
+>Published 2018-03-16
+
 A lot of people with whom I've shared my journal entry were confused as to why
 I would rage-quit Google entirely when I was upset with only one piece of the
-company. 
+company.
 
 Normally I wouldn't. Normally, I would just pivot my usage over to another
 provider, stop using the offending service, and get on with life. What's
@@ -14,7 +16,7 @@ Google's divisions care about their bottom line and their publicity. By publicly
 [saying they are terrible][1], I get the opportunity to get *some* kind of
 response from Google.  That didn't happen here, but then again, Google doesn't
 really care about individuals unless they're huge influencers, in which case
-they'd also like to hire you... 
+they'd also like to hire you...
 
 The short of it is, we still have enough alternatives to choose a different
 option. Until we get to the point where [companies aren't allowed][2] to have such
@@ -42,7 +44,7 @@ political these days:
 >>personal. Well, fuck them. Make it personal.
 >>
 >> -Quellcrist Falconer
->> Things I Should Have Learned by Now, Volume II” 
+>> Things I Should Have Learned by Now, Volume II”
 >
 > [- Richard K. Morgan][4]
 
