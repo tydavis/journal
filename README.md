@@ -1,13 +1,16 @@
 # Glue Code
 
 >Journal, Blog, Brain Dump, etc
-
->Opinions expressed are solely my own and do not express the views or opinions of my employer.
+>
+>Opinions expressed are solely my own and do not express the views or opinions
+>of my employer.
 
 [About][1]
 
 ## 2018
 
+- 2018-07-22 [The pace of change][32] --- Remarks on social, legal, and
+  technological change.
 - 2018-03-16 [Follow up RE: Google][31] --- Further explanation on [my rage-quit
   of Google.][29]
 - 2018-02-27 [Google is terrible][29] --- Explanation for why I'm against
@@ -104,3 +107,4 @@
 [29]:2018/google-is-terrible.md
 [30]:2017/encrypt-everything.md
 [31]:2018/google-follow-up.md
+[32]:2018/pace-of-cahnge.md
