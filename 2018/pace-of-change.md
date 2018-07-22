@@ -1,6 +1,6 @@
 # The Pace of Change
 
->Published 2018-07-17
+>Published 2018-07-22
 
 One of the first subjects my law professor discussed with the class is the
 nature of change. We, as a society, expect ever faster change in our world
