@@ -107,4 +107,4 @@
 [29]:2018/google-is-terrible.md
 [30]:2017/encrypt-everything.md
 [31]:2018/google-follow-up.md
-[32]:2018/pace-of-cahnge.md
+[32]:2018/pace-of-change.md
