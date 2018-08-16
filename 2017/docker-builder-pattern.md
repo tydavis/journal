@@ -4,9 +4,15 @@
 
 The Docker Builder Pattern is a highly useful pattern for leveraging docker
 containers to generate artifacts and then package those artifacts in a
-runtime-only image. This pattern minimizes production container sizes,
-accelerating deployment while reducing incidents of broken dependencies,
-conflicting build libraries, and permits centralized control of build tools.
+runtime-only image. For languages which produce binaries or single-data archives
+(e.g. Go, Java/JVM languages, Rust, etc), this pattern minimizes production
+container sizes, accelerating deployment while reducing incidents of broken
+dependencies, conflicting build libraries, and permits centralized control of
+build tools.
+
+Note, this does not apply to interpreted languages such as Python, Ruby, or
+NodeJS, though similar results can be achieved in NodeJS with [webpack][9] and
+other preprocessing measures.
 
 >Examples below include both Windows and Linux/OSX equivalent commands.
 
@@ -75,13 +81,14 @@ Multi-stage builds take the wrong approach.
 
 Without using mount-points, users have been ADDing or COPYing their entire
 codebase into the container image via a *docker build* command, then using
-*docker cp* to extract the resulting artifacts. As we can see above, this is
-(usually) a fundamentally flawed way of building artifacts using a container.
+*docker cp* to extract the resulting artifacts. For languages which emit
+artifacts (binaries, or single archives like JARs), copying code into a
+container is fundamentally flawed.
 
 The multi-stage concept takes this further down the "wrong" path, encouraging
 this same copy-code-into-image mindset and providing an unnecessary function to
-discard the image inline during build process. As we see above, one does not
-have to build the tools/compiler container every time, meaning
+discard the image inline during build process. As demonstrated above, one does
+not have to build or modify the tools/compiler container every time, meaning
 artifact-build-time is significantly faster than the multi-stage process, even
 with build layer caching.
 
@@ -103,3 +110,4 @@ environment requirements.
 [6]:http://containertutorials.com/alpine/get_started.html
 [7]:https://docs.docker.com/develop/develop-images/baseimages/
 [8]:https://docs.docker.com/develop/develop-images/multistage-build/
+[9]:https://medium.com/@andrejsabrickis/modern-approach-of-javascript-bundling-with-webpack-3b7b3e5f4e7
